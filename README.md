@@ -24,12 +24,11 @@ https://youtu.be/ATvkvgTwQPs
 https://youtu.be/x34t8Lizv4Y
 
 <p>Segue abaixo videos e fotos do meu projeto, faço as requisições no Postman e então mostro elas atualizadas no banco de dados</p>
-![Alt text](<joaovcandrade_projeto-laravel - Google Chrome 02_07_2023 14_46_02.png>)
 
 https://youtu.be/PGdnzgNWQr8
 
-![Alt text](<localhost _ 127.0.0.1 _ taskmanager _ tasks _ phpMyAdmin 5.2.1 - Google Chrome 02_07_2023 14_48_22.png>)
+https://docs.google.com/document/d/1ysciTQq9nn5hslil89Z1OD-xz5--oWqdcwq50K_xwQk/edit
 
 https://youtu.be/8CzOcOWmoko
 
-![Alt text](<localhost _ 127.0.0.1 _ taskmanager _ tasks _ phpMyAdmin 5.2.1 - Google Chrome 02_07_2023 14_49_05.png>)
+https://docs.google.com/document/d/1uDLTyNjcjfifkFejq0tMf2z3Vc8CcMOR0za8YuAFIVo/edit
