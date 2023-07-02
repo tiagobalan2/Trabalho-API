@@ -17,19 +17,19 @@
 <p>A API seguie as práticas recomendadas para design de APIs RESTful e utiliza os métodos HTTP adequados para cada operação.</p>
 <p>Segue abaixo um video testando minha API no Postman</p>
 
-<video src="New%20Request%20-%20My%20Workspace%202023-07-02%2014-40-44.mp4" controls title="Title"></video>
+https://youtu.be/ATvkvgTwQPs
 
 <p>Segue abaixo um video do meu projeto no code já que ja o teste da API ja foi comprovado</p>
 
-<video src="TaskController.php%20-%20TaskManager%20-%20Visual%20Studio%20Code%202023-07-02%2014-43-33.mp4" controls title="Title"></video>
+https://youtu.be/x34t8Lizv4Y
 
 <p>Segue abaixo videos e fotos do meu projeto, faço as requisições no Postman e então mostro elas atualizadas no banco de dados</p>
 ![Alt text](<joaovcandrade_projeto-laravel - Google Chrome 02_07_2023 14_46_02.png>)
 
-<video src="New%20Request%20-%20My%20Workspace%202023-07-02%2014-47-46.mp4" controls title="Title"></video>
+https://youtu.be/PGdnzgNWQr8
 
 ![Alt text](<localhost _ 127.0.0.1 _ taskmanager _ tasks _ phpMyAdmin 5.2.1 - Google Chrome 02_07_2023 14_48_22.png>)
 
-<video src="New%20Request%20-%20My%20Workspace%202023-07-02%2014-48-40.mp4" controls title="Title"></video>
+https://youtu.be/8CzOcOWmoko
 
 ![Alt text](<localhost _ 127.0.0.1 _ taskmanager _ tasks _ phpMyAdmin 5.2.1 - Google Chrome 02_07_2023 14_49_05.png>)
