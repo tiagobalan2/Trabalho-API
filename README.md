@@ -1,6 +1,6 @@
 # Trabalho-API
 <p>documentação:</p>
-https://docs.google.com/document/d/1yE0vKHtmFzFjPy8TyJc1p2e8uUpO4CMShpSYj3_9_jU/edit
+https://docs.google.com/document/d/1yE0vKHtmFzFjPy8TyJc1p2e8uUpO4CMShpSYj3_9_jU/edit?usp=sharing
 
 <p>Segue abaixo um video testando minha API no Postman</p>
 
